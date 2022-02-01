@@ -3,7 +3,7 @@ services:
     build: vote
     scale: 2
     ports:
-      - 8080:6080
+      - 6080:8080
 
   redis:
     image: quay.io/xm0uray/quay_ad_11_vvn_img_docker_v1
