@@ -1,5 +1,5 @@
 name: vote
-command: python app.py
+command: ls
 environment:
   - FLASK_ENV=development
 sync:
