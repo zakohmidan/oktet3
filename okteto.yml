@@ -5,4 +5,4 @@ environment:
 sync:
   - vote:/src
 forward:
-  - 8080:8080
+  - 8080:6080
